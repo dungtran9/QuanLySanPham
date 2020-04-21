@@ -1,0 +1,43 @@
+table{
+    width: 100%;
+    font-size: xx-large;
+    text-align: left;
+    padding: 10px;
+}
+#input{
+    background-color: darkgray;
+    margin: 30px;
+    width: 35%;
+    padding: 5px;
+
+}
+#Product {
+    margin-top: 10px;
+
+}
+input#addproduct{
+    color: green;
+    width: 120px;
+    border-radius: 6px;
+    height: 40px;
+}
+#edit {
+    background-color: green;
+    width: 50px;
+    border-radius: 6px;
+    height: 40px;
+}
+#delete{
+    background-color: green;
+    width: 70px;
+    border-radius: 6px;
+    height: 40px;
+}
+#newproduct{
+    height: 40px;
+    width: 300px;
+}
+#cap {
+    text-align: left;
+    margin-left: auto;
+}

@@ -3,9 +3,9 @@ function displayProductFromArray() {
     let str = "<table>"
         + "<h3>Display All Product</h3>"
         + "<tr>"
-        + "<th width='70%'>Product Name</th>"
-        + "<th width='20%'>&nbsp;</th>"
-        + "<th width='30%'>&nbsp;</th>"
+        + "<th width='40%'>Product Name</th>"
+        + "<th width='15%'>&nbsp;</th>"
+        + "<th width='15%'>&nbsp;</th>"
         + "</tr>"
         + "<hr>"
     for (let i = 0; i < productList.length; i++) {
